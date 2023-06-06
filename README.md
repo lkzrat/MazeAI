@@ -1,5 +1,5 @@
 # MazeIA
-#### **Description**: Python IA that finds the best path in a maze.
+#### **Description**: Python AI that finds the best path in a maze.
 #### **AI**:
 >- Genetic algorithm
 >- Pygame GUI
